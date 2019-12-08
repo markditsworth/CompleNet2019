@@ -1,0 +1,48 @@
+\providecommand{\bysame}{\leavevmode\hbox to3em{\hrulefill}\thinspace}
+\providecommand{\MR}{\relax\ifhmode\unskip\space\fi MR }
+% \MRhref is called by the amsart/book/proc definition of \MR.
+\providecommand{\MRhref}[2]{%
+  \href{http://www.ams.org/mathscinet-getitem?mr=#1}{#2}
+}
+\providecommand{\href}[2]{#2}
+\begin{thebibliography}{MTSvdH15}
+
+\bibitem[BA99]{BA}
+Albert~Lorenz Barab\'asi and R.~Albert, \emph{Emergence of scaling in random
+  networks}, Science \textbf{286} (1999).
+
+\bibitem[BGLL08]{louvain}
+Vincent~D. Blondel, Jean-Loup Guillaume, Renaud Lambiotte, and Etienne
+  Lefebvre, \emph{Fast unfolding of communities in large networks}, Journal of
+  Statistical Mechanics Theory and Experiment (2008).
+
+\bibitem[BL01]{evc}
+Phillip Bonacich and Paulette Lloyd, \emph{Eigenvector-like measures of
+  centrality for asymmetric relations}, Social Networks (2001).
+
+\bibitem[ER60]{er}
+Paul Erd\H{o}s and Alfred R\'enyi, \emph{On the evolution of random graphs},
+  Publications of the Mathematical Institute of the Hungarian Academy of
+  Sciences \textbf{5} (1960).
+
+\bibitem[Kat53]{katz}
+L.~Katz, \emph{A new status index derived from sociometric analysis},
+  Psychometrika \textbf{18} (1953).
+
+\bibitem[MTSvdH15]{amazon}
+J.~McAuley, C.~Targett, J.~Shi, and A.~van~den Hengle, \emph{Image-based
+  recommendations on styles and substitutes}, SIGIR, 2015.
+
+\bibitem[New06]{spectral}
+M.~E.~J. Newman, \emph{Finding community structure in networks using the
+  eigenvectors of matrices}, Phys. Rev. E \textbf{74} (2006).
+
+\bibitem[Sha19]{localization}
+Kieran~J. Sharkey, \emph{Localization of eigenvector centrality in networks
+  with a cut vertex}, Physical Review E \textbf{99} (2019).
+
+\bibitem[YL12]{dblp}
+J.~Yang and J.~Leskovec, \emph{Defining and evaluating network communities
+  based on ground-truth}, ICDM, 2012.
+
+\end{thebibliography}
